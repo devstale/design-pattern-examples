@@ -1,6 +1,7 @@
 package com.devstale.pattern.exception;
 
 /**
+ * Exception for errors in git commands.
  * 
  * @author DEVS_tale
  *
